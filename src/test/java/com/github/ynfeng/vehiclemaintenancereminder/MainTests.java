@@ -1,4 +1,4 @@
-package com.example.vehiclemaintenancereminder;
+package com.github.ynfeng.vehiclemaintenancereminder;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -9,5 +9,4 @@ class MainTests {
 	@Test
 	void contextLoads() {
 	}
-
 }

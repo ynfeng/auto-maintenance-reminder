@@ -1,4 +1,4 @@
-package com.example.vehiclemaintenancereminder;
+package com.github.ynfeng.vehiclemaintenancereminder;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
